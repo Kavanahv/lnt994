@@ -5,6 +5,9 @@ int a=10;
 int b=20;
 float c=2.2;
   System.out.println(a);
+
   String str="hello";
+
+  int d=20;
 }
 }
